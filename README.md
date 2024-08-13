@@ -1,5 +1,8 @@
 # E-book Geração de Mundos: AI para Games Devs
 
+#### by Hellen Caroline Salvato
+💻 [carolsalvato.com](https://carolsalvato.com) | [Linkedin](https://www.linkedin.com/in/héllen-caroline-salvato-23702191/) | [Itch.io](https://carolsalvato.itch.io) | [Perfil DIO](https://www.dio.me/users/carol_lgl) | [Game Prototype](https://carolsalvato.itch.io/cards-of-valhalla)
+
 ## Sobre o projeto
 Projeto para o curso da DIO onde o objetivo era usar ferramentas de IA Generativa para auxiliar na criação de um e-book.
 
@@ -9,9 +12,9 @@ Projeto para o curso da DIO onde o objetivo era usar ferramentas de IA Generativ
 [Link para download do e-book](https://carolsalvato.gumroad.com/l/ebook-geracao-de-mundos)
 
 ## Ferramentas Usadas
-- ChatGPT
-- Leonardo.AI
-- 
+- [ChatGPT](https://chatgpt.com/)
+- [Leonardo.AI]()
+- [Canva]()
 
 ## Objetivos com esse Ebook
 Desenvolver e compartilhar conhecimento sobre novas técnicas e técnologias ...
